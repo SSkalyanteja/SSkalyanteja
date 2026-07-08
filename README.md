@@ -14,7 +14,7 @@ Hey! I'm Kalyan Teja. I am an Infrastructure, Identity, and Automation Engineer.
 <p align="left">
 <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://linkedin.com/in/kalyanteja" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://SSkalyanteja.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00FF66?style=plastic&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+<a href="https://sskalyanteja.github.io/kalyanteja.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00FF66?style=plastic&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
 </p>
 
 ---
