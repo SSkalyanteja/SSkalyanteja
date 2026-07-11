@@ -1,6 +1,6 @@
 # About Me:
 
-Hey! I'm Kalyan Teja. I am an Infrastructure, Identity, and Automation Engineer. Problem solver by nature, optimizer by design. Check out my live work on my [Portfolio Website](https://sskalyanteja.github.io/kalyanteja.github.io/) to see what I've been up to. 
+Hey! I'm Kalyan Teja. I am an Infrastructure, Identity, and Automation Engineer. Problem solver by nature, optimizer by design. Check out my live work on my [Portfolio Website](https://sskalyanteja.github.io/) to see what I've been up to. 
 
 * 🔭 I’m currently engineering secure user authorization topologies and workflow architectures.
 * ⚡ I specialize in stripping away manual operational overhead using custom Python automation pipelines.
